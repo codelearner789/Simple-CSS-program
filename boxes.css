@@ -1,0 +1,18 @@
+#inner-box {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  border: 50px solid black;
+}
+#outer-box {
+  background-color: red;
+  height: 300px;
+  width: 300px;
+  padding: 50px;
+}
+#center-box {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+}
